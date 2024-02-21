@@ -1,0 +1,9 @@
+en:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            password:
+              blank: Password cannot be blank
+              too_short: password must be 8 characters or
